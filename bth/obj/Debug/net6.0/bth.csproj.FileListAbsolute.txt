@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\bth\bth\bin\Debug\net6.0\bth.exe
+C:\Users\Administrator\source\repos\bth\bth\bin\Debug\net6.0\bth.deps.json
+C:\Users\Administrator\source\repos\bth\bth\bin\Debug\net6.0\bth.runtimeconfig.json
+C:\Users\Administrator\source\repos\bth\bth\bin\Debug\net6.0\bth.dll
+C:\Users\Administrator\source\repos\bth\bth\bin\Debug\net6.0\bth.pdb
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.dll
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\refint\bth.dll
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.pdb
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\bth.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\bth\bth\obj\Debug\net6.0\ref\bth.dll
